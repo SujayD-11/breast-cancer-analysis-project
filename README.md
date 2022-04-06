@@ -41,6 +41,6 @@ resulting in 30 features. For instance, field 3 is Mean Radius, field
 All feature values are recoded with four significant digits.
 
 ## Contributions:
- * Ayan Mukherjee 
- * Akshat Chahuan
- * Sujay Doshi
+ * Ayan Mukherjee - https://github.com/atyhio9087
+ * Akshat Chahuan - https://github.com/syneoxya
+ * Sujay Doshi    - https://github.com/SujayD-11
