@@ -7,6 +7,12 @@ Link for the Dataset : https://www.kaggle.com/datasets/uciml/breast-cancer-wisco
 ## About Dataset and Problem Statement
 Our dataset is about breast cancer information gathered using fine needle aspirate - A procedure to check for breast cancer. They describe characteristics of the cell nuclei present in the image. The ultimate objective would be to predict if the cancer is benign or malignant. Benign stage is where the tumor (cell cluster) isnt a threat and invades other tissues. When it becomes abnormal and parasitic, its called malignant.
 
+The 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
+
+This database is also available through the UW CS ftp server:
+ftp ftp.cs.wisc.edu
+cd math-prog/cpo-dataset/machine-learn/WDBC/
+
 Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 ## Attribute Information:
