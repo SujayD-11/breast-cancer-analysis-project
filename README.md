@@ -42,7 +42,7 @@ resulting in 30 features. For instance, field 3 is Mean Radius, field
 
 All feature values are recoded with four significant digits.
 
-##Objective and About our Work
+## Objective and About our Work
 Scince the target attribute - "diagnosis" are discrete & the predication falls into two categories this can be stated as a Binary Classification Problem and a normal classifier model can be used.
 After analysis, Logistic regression has been used on this dataset.
 
